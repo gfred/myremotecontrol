@@ -1,0 +1,26 @@
+Element: 
+	<mrc:crtl values+/>
+
+values:
+	shutdownTime="d*ms/now"		> Zeit bis zum runterfahren
+	shutdownStatus="start/stop/pause"
+	volume="d*" 				> Lautstärke
+	mute="on/off"				> Mute
+	mouseX="d*"					> Mouse Position X
+	mouseY="d*"					> Mouse Position Y
+	mouseClick="l/r/c"			> Mouse Links/Rechts klick
+	mouseScroll="u/d" 			> upscroll / downscroll
+	key="d*"					> Tastatur key pressed
+	connected="true/false"
+	 
+--------------------------------------------------------------------------------------------------------------------
+	 
+Element:
+	<mrc:info value+/>
+	
+values:
+	ratio=""
+	connected=""
+	shutdownTime=""
+	shutdownStatus=""	
+	
