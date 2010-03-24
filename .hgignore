@@ -1,0 +1,7 @@
+
+syntax: regexp
+^MyRemoteControlServer/bin$
+syntax: regexp
+^MyRemoteControl/bin$
+syntax: regexp
+^MyRemoteControlClientTest/bin$
